@@ -1,17 +1,30 @@
 {
-	"name": "ffmpeg",
-	"description": "Utility for managing video streams using ffmpeg",
-	"version": "0.0.4",
-	"author": {
-		"name": "Damiano Ciarla",
-		"email": "damiano.ciarl@gmail.com"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/damianociarla/node-ffmpeg.git"
-	},
-	"main": "./index.js",
-	"dependencies": {
-		"when" : ">= 0.0.1"
-	}
+  "name": "@tuananhitoct/ffmpeg",
+  "description": "Utility for managing video streams using ffmpeg",
+  "version": "0.0.2",
+  "author": "Damiano Ciarla <damiano.ciarl@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damianociarla/node-ffmpeg.git"
+  },
+  "main": "./index.js",
+  "dependencies": {
+    "when": ">= 0.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/damianociarla/node-ffmpeg/issues"
+  },
+  "homepage": "https://github.com/damianociarla/node-ffmpeg#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ffmpeg",
+    "ffmpeg-space"
+  ],
+  "license": "ISC"
 }
