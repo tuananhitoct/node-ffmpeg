@@ -1,7 +1,7 @@
 {
   "name": "@tuananhitoct/ffmpeg",
   "description": "Utility for managing video streams using ffmpeg",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "author": "Damiano Ciarla <damiano.ciarl@gmail.com>",
   "repository": {
     "type": "git",
